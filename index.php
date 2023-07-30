@@ -10,6 +10,9 @@ session_start();
   <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="css/index.css">
 
+  <!-- <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="css/index.css"> -->
+
   <script type="text/javascript">
     window.onscroll = function() {
       scrollFunction()
